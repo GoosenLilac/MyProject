@@ -62,4 +62,11 @@ WeatherForecast API — это простой API, разработанный н
 ]
 ```
 
+## Скриншоты
+
+![image](https://github.com/user-attachments/assets/33fccf72-f0b0-4bcc-93c5-86b66cecfe4d)
+![image](https://github.com/user-attachments/assets/88c5f100-9d80-4c35-a3a7-d5b0be073707)
+
+
+
  
